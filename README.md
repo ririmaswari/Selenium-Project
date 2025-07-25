@@ -176,9 +176,5 @@ Test reports akan generate di:
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 📞 Contact
-- **Author**: Adi Reskamauladi Al Amin
-- **Email**: adireskamauladi04@gmail.com
-
 ---
 **Happy Testing!** 🚀
